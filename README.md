@@ -76,10 +76,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Fantom-Labs&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Fantom-Labs&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=mucio-miranda&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=mucio-miranda&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Fantom-Labs&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mucio-miranda&hide_border=true&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -91,7 +91,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fantom.weblabs@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mucio-miranda)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Fantom-Labs)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mucio-miranda)
 
 </div>
 

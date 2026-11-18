@@ -35,7 +35,7 @@ Meu foco atual é **IA aplicada à operação**: agentes que atendem clientes no
 | **Pipeline de conteúdo da REZZU** | Skills de produção para a agência: artes compostas em HTML/CSS e renderizadas no Chrome headless, tunning de imagem com IA com o texto travado por cima, edição de vídeo local (Whisper, corte de pausas, legendas sincronizadas) e organização automática do Drive. | Python, Node, Chrome headless, ffmpeg, Whisper, Claude Code |
 | **[Med HandsOn](https://github.com/mucio-miranda/Website-Med-HandsOn)** | Site institucional de uma escola médica de ensino prático com pacientes reais. | Next.js, TypeScript |
 | **[Dr. Alex Laurentino](https://github.com/mucio-miranda/site-alex-laurentino)** | Landing page de advogado criminalista com scroll animado, SEO técnico e domínio próprio. | HTML, CSS, GSAP, Netlify |
-| **[Trattoria Alesa](https://github.com/mucio-miranda/Website-Trattoria-Alesa)** · **[Dr. Deoclides](https://github.com/mucio-miranda/website-dr.deoclides)** · **[REZZU](https://github.com/mucio-miranda/site-rezzu)** | Sites institucionais para restaurante, neurologista e agência. | TypeScript, Astro |
+| **[Trattoria Alesa](https://github.com/mucio-miranda/Website-Trattoria-Alesa)** · **[Dr. Deoclides](https://github.com/mucio-miranda/website-dr.deoclides)** | Sites institucionais para restaurante e neurologista. | Next.js, TypeScript |
 
 <br/>
 
@@ -57,7 +57,6 @@ Meu foco atual é **IA aplicada à operação**: agentes que atendem clientes no
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=for-the-badge&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black)
 
